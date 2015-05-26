@@ -8,6 +8,6 @@ follows:
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/Sudhakar7777777/aws-setup.git
-./aws-setup/setup.sh   
+./aws-setup/setup.sh
 ```
 
